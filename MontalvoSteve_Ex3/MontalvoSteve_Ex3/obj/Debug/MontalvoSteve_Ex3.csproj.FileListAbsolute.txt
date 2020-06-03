@@ -1,0 +1,16 @@
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.exe.config
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.exe
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.pdb
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.csprojResolveAssemblyReference.cache
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.exe
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.pdb
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.exe.config
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.exe
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.pdb
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.csprojResolveAssemblyReference.cache
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.exe
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.pdb
+C:\Users\SteveMontalvo\Google Drive\CE2\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\bin\Debug\MontalvoSteve_Ex3.exe.config
+C:\Users\SteveMontalvo\Google Drive\CE2\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.exe
+C:\Users\SteveMontalvo\Google Drive\CE2\MontalvoSteve_CodingExcersie3and4\MontalvoSteve_Ex3\MontalvoSteve_Ex3\obj\Debug\MontalvoSteve_Ex3.pdb
