@@ -1,0 +1,8 @@
+C:\Users\SteveMontalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\bin\Debug\MontalvoSteve_Ex4.exe.config
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\bin\Debug\MontalvoSteve_Ex4.exe.config
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\bin\Debug\MontalvoSteve_Ex4.exe
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\bin\Debug\MontalvoSteve_Ex4.pdb
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\obj\Debug\MontalvoSteve_Ex4.csprojResolveAssemblyReference.cache
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\obj\Debug\MontalvoSteve_Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\obj\Debug\MontalvoSteve_Ex4.exe
+C:\Users\Steve Montalvo\Google Drive\Project and Portfolio II\MontalvoSteve_Ex4\MontalvoSteve_Ex4\obj\Debug\MontalvoSteve_Ex4.pdb
