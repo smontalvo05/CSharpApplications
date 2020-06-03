@@ -1,0 +1,13 @@
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\bin\Debug\stevemontalvo_CE02.exe.config
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\bin\Debug\stevemontalvo_CE02.exe
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\bin\Debug\stevemontalvo_CE02.pdb
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.csprojResolveAssemblyReference.cache
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.csproj.CoreCompileInputs.cache
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.exe
+C:\Users\Steve Montalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.pdb
+C:\Users\SteveMontalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\bin\Debug\stevemontalvo_CE02.exe.config
+C:\Users\SteveMontalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.exe
+C:\Users\SteveMontalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.pdb
+C:\Users\SteveMontalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\bin\Debug\stevemontalvo_CE02.exe
+C:\Users\SteveMontalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\bin\Debug\stevemontalvo_CE02.pdb
+C:\Users\SteveMontalvo\Google Drive\ASD\stevemontalvo_CE02\stevemontalvo_CE02\obj\Debug\stevemontalvo_CE02.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\obj\Debug\SteveMontalvo_CEO2.csprojResolveAssemblyReference.cache
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\obj\Debug\SteveMontalvo_CEO2.csproj.CoreCompileInputs.cache
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\bin\Debug\SteveMontalvo_CEO2.exe.config
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\bin\Debug\SteveMontalvo_CEO2.exe
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\bin\Debug\SteveMontalvo_CEO2.pdb
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\obj\Debug\SteveMontalvo_CEO2.exe
+C:\Users\Steve Montalvo\Google Drive\ASD2\SteveMontalvo_CEO2\SteveMontalvo_CEO2\obj\Debug\SteveMontalvo_CEO2.pdb
